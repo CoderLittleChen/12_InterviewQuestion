@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01如何判断链表是否有环", "01如何判断链表是否有环\01如何判断链表是否有环.csproj", "{8D02D84B-049D-445E-BB12-4A19738F023B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02将两个有序链表合并后依然有序", "02将两个有序链表合并后依然有序\02将两个有序链表合并后依然有序.csproj", "{B76A3895-DE0A-4A55-B4D4-623000C159C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03连续子数组的最大和", "03连续子数组的最大和\03连续子数组的最大和.csproj", "{78B9081D-C702-4135-841B-691CFD311BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04如何判断二叉树是否为平衡二叉树", "04如何判断二叉树是否为平衡二叉树\04如何判断二叉树是否为平衡二叉树.csproj", "{FC36C020-92E9-494E-97E5-27A314FA67A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05给定根节点，求二叉树的深度", "05给定根节点，求二叉树的深度\05给定根节点，求二叉树的深度.csproj", "{6AC01536-65D3-4BCD-A0A2-30E241163B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{8D02D84B-049D-445E-BB12-4A19738F023B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D02D84B-049D-445E-BB12-4A19738F023B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D02D84B-049D-445E-BB12-4A19738F023B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76A3895-DE0A-4A55-B4D4-623000C159C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76A3895-DE0A-4A55-B4D4-623000C159C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76A3895-DE0A-4A55-B4D4-623000C159C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76A3895-DE0A-4A55-B4D4-623000C159C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B9081D-C702-4135-841B-691CFD311BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B9081D-C702-4135-841B-691CFD311BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B9081D-C702-4135-841B-691CFD311BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B9081D-C702-4135-841B-691CFD311BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC36C020-92E9-494E-97E5-27A314FA67A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC36C020-92E9-494E-97E5-27A314FA67A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC36C020-92E9-494E-97E5-27A314FA67A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC36C020-92E9-494E-97E5-27A314FA67A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC01536-65D3-4BCD-A0A2-30E241163B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC01536-65D3-4BCD-A0A2-30E241163B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC01536-65D3-4BCD-A0A2-30E241163B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC01536-65D3-4BCD-A0A2-30E241163B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
